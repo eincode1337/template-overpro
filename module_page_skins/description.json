@@ -1,0 +1,32 @@
+{
+  "title": "LR WEB | Skins system",
+  "info": "Select skins for weapons",
+  "author": "",
+  "page": "skins",
+  "version": "4.2",
+  "required": {
+    "core": "0.2",
+    "php": "7.4"
+  },
+  "setting": {
+    "status": 1,
+    "type": 1,
+    "available_types": "1",
+    "translation": 1,
+    "interface": 1,
+    "data": 1,
+    "css": 1,
+    "js": 1
+  },
+  "sidebar": [
+    {
+      "href": "?page=skins",
+      "open_new_tab": "0",
+      "icon_group": "zmdi",
+      "icon_category": "",
+      "icon": "roller",
+      "name": "SkinChanger",
+      "sidebar_directory": "_Sidebar_statistics"
+    }
+  ]
+}

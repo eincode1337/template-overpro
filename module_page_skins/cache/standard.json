@@ -1,0 +1,538 @@
+[
+    {
+        "id": 4,
+        "id_name": "weapon_glock",
+        "name": "Glock-18",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_glock.png",
+        "team": 0,
+        "type": "Pistol"
+    },
+    {
+        "id": 32,
+        "id_name": "weapon_hkp2000",
+        "name": "P2000",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_hkp2000.png",
+        "team": 1,
+        "type": "Pistol"
+    },
+    {
+        "id": 61,
+        "id_name": "weapon_usp_silencer",
+        "name": "USP-S",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_usp_silencer.png",
+        "team": 1,
+        "type": "Pistol"
+    },
+    {
+        "id": 2,
+        "id_name": "weapon_elite",
+        "name": "Dual Elites",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_elite.png",
+        "team": 2,
+        "type": "Pistol"
+    },
+    {
+        "id": 63,
+        "id_name": "weapon_cz75a",
+        "name": "CZ-75",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_cz75a.png",
+        "team": 2,
+        "type": "Pistol"
+    },
+    {
+        "id": 36,
+        "id_name": "weapon_p250",
+        "name": "P250",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_p250.png",
+        "team": 2,
+        "type": "Pistol"
+    },
+    {
+        "id": 30,
+        "id_name": "weapon_tec9",
+        "name": "Tec-9",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_tec9.png",
+        "team": 0,
+        "type": "Pistol"
+    },
+    {
+        "id": 3,
+        "id_name": "weapon_fiveseven",
+        "name": "Five-SeveN",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_fiveseven.png",
+        "team": 1,
+        "type": "Pistol"
+    },
+    {
+        "id": 1,
+        "id_name": "weapon_deagle",
+        "name": "Desert Eagle",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_deagle.png",
+        "team": 2,
+        "type": "Pistol"
+    },
+    {
+        "id": 64,
+        "id_name": "weapon_revolver",
+        "name": "Revolver",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_revolver.png",
+        "team": 2,
+        "type": "Pistol"
+    },
+    {
+        "id": 35,
+        "id_name": "weapon_nova",
+        "name": "Nova",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_nova.png",
+        "team": 2,
+        "type": "Heavy"
+    },
+    {
+        "id": 25,
+        "id_name": "weapon_xm1014",
+        "name": "XM1014",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_xm1014.png",
+        "team": 2,
+        "type": "Heavy"
+    },
+    {
+        "id": 27,
+        "id_name": "weapon_mag7",
+        "name": "MAG-7",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mag7.png",
+        "team": 1,
+        "type": "Heavy"
+    },
+    {
+        "id": 34,
+        "id_name": "weapon_mp9",
+        "name": "MP9",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mp9.png",
+        "team": 1,
+        "type": "SMG"
+    },
+    {
+        "id": 23,
+        "id_name": "weapon_mp5sd",
+        "name": "MP5-SD",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mp5sd.png",
+        "team": 2,
+        "type": "SMG"
+    },
+    {
+        "id": 33,
+        "id_name": "weapon_mp7",
+        "name": "MP7",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mp7.png",
+        "team": 2,
+        "type": "SMG"
+    },
+    {
+        "id": 24,
+        "id_name": "weapon_ump45",
+        "name": "UMP-45",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ump45.png",
+        "team": 2,
+        "type": "SMG"
+    },
+    {
+        "id": 17,
+        "id_name": "weapon_mac10",
+        "name": "MAC-10",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_mac10.png",
+        "team": 0,
+        "type": "SMG"
+    },
+    {
+        "id": 26,
+        "id_name": "weapon_bizon",
+        "name": "PP-Bizon",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bizon.png",
+        "team": 2,
+        "type": "SMG"
+    },
+    {
+        "id": 19,
+        "id_name": "weapon_p90",
+        "name": "P90",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_p90.png",
+        "team": 2,
+        "type": "SMG"
+    },
+    {
+        "id": 13,
+        "id_name": "weapon_galilar",
+        "name": "Galil AR",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_galilar.png",
+        "team": 0,
+        "type": "Rifle"
+    },
+    {
+        "id": 10,
+        "id_name": "weapon_famas",
+        "name": "FAMAS",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_famas.png",
+        "team": 1,
+        "type": "Rifle"
+    },
+    {
+        "id": 7,
+        "id_name": "weapon_ak47",
+        "name": "AK-47",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ak47.png",
+        "team": 0,
+        "type": "Rifle"
+    },
+    {
+        "id": 16,
+        "id_name": "weapon_m4a1",
+        "name": "M4A4",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_m4a1.png",
+        "team": 1,
+        "type": "Rifle"
+    },
+    {
+        "id": 60,
+        "id_name": "weapon_m4a1_silencer",
+        "name": "M4A1-S",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_m4a1_silencer.png",
+        "team": 1,
+        "type": "Rifle"
+    },
+    {
+        "id": 8,
+        "id_name": "weapon_aug",
+        "name": "AUG",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_aug.png",
+        "team": 1,
+        "type": "Rifle"
+    },
+    {
+        "id": 39,
+        "id_name": "weapon_sg556",
+        "name": "SG 556",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_sg556.png",
+        "team": 0,
+        "type": "Rifle"
+    },
+    {
+        "id": 40,
+        "id_name": "weapon_ssg08",
+        "name": "SSG 08",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_ssg08.png",
+        "team": 2,
+        "type": "Rifle"
+    },
+    {
+        "id": 9,
+        "id_name": "weapon_awp",
+        "name": "AWP",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_awp.png",
+        "team": 2,
+        "type": "Rifle"
+    },
+    {
+        "id": 11,
+        "id_name": "weapon_g3sg1",
+        "name": "G3SG1",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_g3sg1.png",
+        "team": 0,
+        "type": "Rifle"
+    },
+    {
+        "id": 38,
+        "id_name": "weapon_scar20",
+        "name": "SCAR-20",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_scar20.png",
+        "team": 1,
+        "type": "Rifle"
+    },
+    {
+        "id": 29,
+        "id_name": "weapon_sawedoff",
+        "name": "Sawed off",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_sawedoff.png",
+        "team": 0,
+        "type": "Heavy"
+    },
+    {
+        "id": 14,
+        "id_name": "weapon_m249",
+        "name": "M249",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_m249.png",
+        "team": 2,
+        "type": "Heavy"
+    },
+    {
+        "id": 28,
+        "id_name": "weapon_negev",
+        "name": "Negev",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_negev.png",
+        "team": 2,
+        "type": "Heavy"
+    },
+    {
+        "id": 0,
+        "id_name": "weapon_knife",
+        "name": "Default Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife.png",
+        "team": 0,
+        "type": "Knife"
+    },
+    {
+        "id": 0,
+        "id_name": "weapon_knife",
+        "name": "Default Knife",
+        "img": "/app/modules/module_page_skins/assets/img/weapon_knife.png",
+        "team": 1,
+        "type": "Knife"
+    },
+    {
+        "id": 505,
+        "id_name": "weapon_knife_flip",
+        "name": "Flip Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_flip.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 507,
+        "id_name": "weapon_knife_karambit",
+        "name": "Karambit",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_karambit.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 500,
+        "id_name": "weapon_bayonet",
+        "name": "Bayonet",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_bayonet.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 508,
+        "id_name": "weapon_knife_m9_bayonet",
+        "name": "M9 Bayonet",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_m9_bayonet.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 509,
+        "id_name": "weapon_knife_tactical",
+        "name": "Huntsman Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_tactical.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 515,
+        "id_name": "weapon_knife_butterfly",
+        "name": "Butterfly Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_butterfly.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 512,
+        "id_name": "weapon_knife_falchion",
+        "name": "Falchion Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_falchion.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 516,
+        "id_name": "weapon_knife_push",
+        "name": "Shadow Daggers",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_push.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 514,
+        "id_name": "weapon_knife_survival_bowie",
+        "name": "Bowie Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_survival_bowie.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 520,
+        "id_name": "weapon_knife_gypsy_jackknife",
+        "name": "Navaja Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gypsy_jackknife.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 522,
+        "id_name": "weapon_knife_stiletto",
+        "name": "Stiletto Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_stiletto.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 519,
+        "id_name": "weapon_knife_ursus",
+        "name": "Ursus Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_ursus.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 523,
+        "id_name": "weapon_knife_widowmaker",
+        "name": "Talon Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_widowmaker.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 517,
+        "id_name": "weapon_knife_cord",
+        "name": "Paracord Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_cord.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 506,
+        "id_name": "weapon_knife_gut",
+        "name": "Gut Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_gut.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 503,
+        "id_name": "weapon_knife_css",
+        "name": "Classic Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_css.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 525,
+        "id_name": "weapon_knife_skeleton",
+        "name": "Skeleton Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_skeleton.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 521,
+        "id_name": "weapon_knife_outdoor",
+        "name": "Nomad Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_outdoor.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 518,
+        "id_name": "weapon_knife_canis",
+        "name": "Survival Knife",
+        "img": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/weapon_knife_canis.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 526,
+        "id_name": "weapon_knife_kukri",
+        "name": "Kukri Knife",
+        "img": "/app/modules/module_page_skins/assets/img/weapon_knife_kukri.png",
+        "team": 2,
+        "type": "Knife"
+    },
+    {
+        "id": 0,
+        "id_name": "glove_t",
+        "name": "★ Default Glove",
+        "img": "/app/modules/module_page_skins/assets/img/t_gloves.png",
+        "team": 0,
+        "type": "Gloves"
+    },
+    {
+        "id": 0,
+        "id_name": "glove_ct",
+        "name": "★ Default Glove",
+        "img": "/app/modules/module_page_skins/assets/img/ct_gloves.png",
+        "team": 1,
+        "type": "Gloves"
+    },
+    {
+        "id": 4725,
+        "id_name": "studded_brokenfang_gloves",
+        "name": "★ Broken Fang Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/studded_brokenfang_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5027,
+        "id_name": "studded_bloodhound_gloves",
+        "name": "★ Bloodhound Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/studded_bloodhound_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5030,
+        "id_name": "sporty_gloves",
+        "name": "★ Sport Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/sporty_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5031,
+        "id_name": "slick_gloves",
+        "name": "★ Driver Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/slick_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5032,
+        "id_name": "leather_handwraps",
+        "name": "★ Hand Wraps",
+        "img": "/app/modules/module_page_skins/assets/img/leather_handwraps.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5033,
+        "id_name": "motorcycle_gloves",
+        "name": "★ Moto Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/motorcycle_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5034,
+        "id_name": "specialist_gloves",
+        "name": "★ Specialist Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/specialist_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 5035,
+        "id_name": "studded_hydra_gloves",
+        "name": "★ Hydra Gloves",
+        "img": "/app/modules/module_page_skins/assets/img/studded_hydra_gloves.png",
+        "team": 2,
+        "type": "Gloves"
+    },
+    {
+        "id": 31,
+        "id_name": "weapon_taser",
+        "name": "Zeus x27",
+        "img": "/app/modules/module_page_skins/assets/img/weapon_taser.png",
+        "team": 2,
+        "type": "Knife"
+    }
+]

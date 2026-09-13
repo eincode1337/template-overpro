@@ -1,0 +1,854 @@
+{
+  "_set_page_title": {
+    "RU": "Скинченджер",
+    "EN": "SkinChanger",
+    "UA": "Скінченджер",
+    "DE": "Skin-Wechsler"
+  },
+  "_set_page_description": {
+    "RU": "Выбор скинов для оружия",
+    "EN": "Select skins for weapons",
+    "UA": "Вибір скинів для зброї",
+    "DE": "Wähle Skins für Waffen aus"
+  },
+  "_save_db": {
+    "RU": "БД успешно сохранена, перезагрузка",
+    "EN": "Database successfully saved, reloading",
+    "UA": "БД успішно збережена, перезавантаження",
+    "DE": "Datenbank erfolgreich gespeichert, Neuladen"
+  },
+  "_all_skins": {
+    "RU": "Все оружия",
+    "EN": "All weapons",
+    "UA": "Уся зброя",
+    "DE": "Alle Waffen"
+  },
+  "_knife": {
+    "RU": "Ножи",
+    "EN": "Knives",
+    "UA": "Ножі",
+    "DE": "Messer"
+  },
+  "_gloves": {
+    "RU": "Перчатки",
+    "EN": "Gloves",
+    "UA": "Рукавички",
+    "DE": "Handschuhe"
+  },
+  "_pistol": {
+    "RU": "Пистолеты",
+    "EN": "Pistols",
+    "UA": "Пістолети",
+    "DE": "Pistolen"
+  },
+  "_rifle": {
+    "RU": "Винтовки",
+    "EN": "Rifles",
+    "UA": "Гвинтівки",
+    "DE": "Gewehre"
+  },
+  "_sniper_rifle": {
+    "RU": "Снайперские винтовки",
+    "EN": "Sniper Rifles",
+    "UA": "Снайперські гвинтівки",
+    "DE": "Scharfschützengewehre"
+  },
+  "_smg": {
+    "RU": "Пистолеты-пулемёты",
+    "EN": "Submachine Guns",
+    "UA": "Пістолети-кулемети",
+    "DE": "Maschinenpistolen"
+  },
+  "_shotgun": {
+    "RU": "Дробовики",
+    "EN": "Shotguns",
+    "UA": "Дробовики",
+    "DE": "Schrotflinten"
+  },
+  "_machine_gun": {
+    "RU": "Пулемёты",
+    "EN": "Machine Guns",
+    "UA": "Кулемети",
+    "DE": "Maschinengewehre"
+  },
+  "_text_modal": {
+    "RU": "Коллекция скинов",
+    "EN": "Skin Collection",
+    "UA": "Колекція скинів",
+    "DE": "Skin-Sammlung"
+  },
+  "_my_info_skin": {
+    "RU": "Выбранный скин",
+    "EN": "Selected Skin",
+    "UA": "Обраний скин",
+    "DE": "Ausgewählter Skin"
+  },
+  "_connect_module": {
+    "RU": "ПОДКЛЮЧЕНИЕ МОДУЛЯ",
+    "EN": "MODULE CONNECTION",
+    "UA": "ПІДКЛЮЧЕННЯ МОДУЛЯ",
+    "DE": "MODULE VERBINDUNG"
+  },
+  "_host": {
+    "RU": "ХОСТ",
+    "EN": "HOST",
+    "UA": "ХОСТ",
+    "DE": "HOST"
+  },
+  "_host_info": {
+    "RU": "Укажите IP-адрес базы данных",
+    "EN": "Specify the IP address of the database",
+    "UA": "Вкажіть IP-адресу бази даних",
+    "DE": "Geben Sie die IP-Adresse der Datenbank an"
+  },
+  "_user": {
+    "RU": "ИМЯ БАЗЫ ДАННЫХ",
+    "EN": "DATABASE NAME",
+    "UA": "ІМ'Я БАЗИ ДАНИХ",
+    "DE": "DATENBANKNAME"
+  },
+  "_user_info": {
+    "RU": "Укажите имя базы данных",
+    "EN": "Specify the name of the database",
+    "UA": "Вкажіть ім'я бази даних",
+    "DE": "Geben Sie den Namen der Datenbank an"
+  },
+  "_name_db": {
+    "RU": "ИМЯ ПОЛЬЗОВАТЕЛЯ БД",
+    "EN": "DATABASE USER NAME",
+    "UA": "ІМ'Я КОРИСТУВАЧА БД",
+    "DE": "BENUTZERNAME DER DATENBANK"
+  },
+  "_name_db_info": {
+    "RU": "Укажите имя пользователя базы данных",
+    "EN": "Specify the username for the database",
+    "UA": "Вкажіть ім'я користувача бази даних",
+    "DE": "Geben Sie den Benutzernamen für die Datenbank an"
+  },
+  "_pass_db": {
+    "RU": "ПАРОЛЬ ПОЛЬЗОВАТЕЛЯ БД",
+    "EN": "DATABASE USER PASSWORD",
+    "UA": "ПАРОЛЬ КОРИСТУВАЧА БД",
+    "DE": "PASSWORT DES DATENBANKBENUTZERS"
+  },
+  "_pass_db_info": {
+    "RU": "Укажите пароль базы данных",
+    "EN": "Specify the password for the database",
+    "UA": "Вкажіть пароль для бази даних",
+    "DE": "Geben Sie das Passwort für die Datenbank an"
+  },
+  "_name_server": {
+    "RU": "ИМЯ СЕРВЕРА",
+    "EN": "SERVER NAME",
+    "UA": "ІМ'Я СЕРВЕРА",
+    "DE": "SERVERNAME"
+  },
+  "_name_server_info": {
+    "RU": "Укажите имя 1-го сервера",
+    "EN": "Specify the name of the 1st server",
+    "UA": "Вкажіть ім'я 1-го сервера",
+    "DE": "Geben Sie den Namen des 1. Servers an"
+  },
+  "_skins_check": {
+    "RU": "Выбрать скин",
+    "EN": "Select Skin",
+    "UA": "Вибрати скін",
+    "DE": "Haut auswählen"
+  },
+  "_skins_standart": {
+    "RU": "Выбрать стандартный",
+    "EN": "Select Standard",
+    "UA": "Вибрати стандартний",
+    "DE": "Standard auswählen"
+  },
+  "_skins_del": {
+    "RU": "Удалить выбор",
+    "EN": "Delete Selection",
+    "UA": "Видалити вибір",
+    "DE": "Auswahl löschen"
+  },
+  "_skins_no": {
+    "RU": "Не найдено",
+    "EN": "Not Found",
+    "UA": "Не знайдено",
+    "DE": "Nicht gefunden"
+  },
+  "_no_auth": {
+    "RU": "Вы не авторизовались для выбора",
+    "EN": "You are not authorized to make a selection",
+    "UA": "Ви не авторизовані для вибору",
+    "DE": "Sie sind nicht autorisiert, eine Auswahl zu treffen"
+  },
+  "_buble_skins": {
+    "RU": "Вы уже выбрали данный скин",
+    "EN": "You have already selected this skin",
+    "UA": "Ви вже вибрали цей скін",
+    "DE": "Sie haben diese Haut bereits ausgewählt"
+  },
+  "_yeye": {
+    "RU": "Вы поставили новый скин",
+    "EN": "You have set a new skin",
+    "UA": "Ви встановили новий скін",
+    "DE": "Sie haben eine neue Haut festgelegt"
+  },
+  "_skins_def": {
+    "RU": "Вы поставили стандартный скин",
+    "EN": "You have set the default skin",
+    "UA": "Ви встановили стандартний скін",
+    "DE": "Sie haben die Standardhaut festgelegt"
+  },
+  "_skins_def_no": {
+    "RU": "Вы уже выбрали стандартный скин",
+    "EN": "You have already selected the default skin",
+    "UA": "Ви вже вибрали стандартний скін",
+    "DE": "Sie haben bereits die Standardhaut ausgewählt"
+  },
+  "_skins_def_knife": {
+    "RU": "Вы поставили стандартный нож",
+    "EN": "You have set the default knife",
+    "UA": "Ви встановили стандартний ніж",
+    "DE": "Sie haben das Standardmesser festgelegt"
+  },
+  "_input_syka": {
+    "RU": "Некоторые поля почему-то пустые...",
+    "EN": "Some fields are unexpectedly empty...",
+    "UA": "Деякі поля, як виявляється, порожні...",
+    "DE": "Einige Felder sind unerwartet leer..."
+  },
+  "_input_yeye": {
+    "RU": "Успешное подключение, перезагрузка...",
+    "EN": "Successful connection, reloading...",
+    "UA": "Успішне підключення, перезавантаження...",
+    "DE": "Erfolgreiche Verbindung, Neuladen..."
+  },
+  "_skins_none": {
+    "RU": "Обычный",
+    "EN": "Normal",
+    "UA": "Звичайний",
+    "DE": "Normal"
+  },
+  "_db_info": {
+    "RU": "Внимательно указывайте данные! Либо вам придется изменять вручную файл",
+    "EN": "Carefully enter the data! Otherwise, you will have to manually edit the file",
+    "UA": "Уважно вказуйте дані! В іншому випадку вам доведеться вручну редагувати файл",
+    "DE": "Geben Sie die Daten sorgfältig ein! Andernfalls müssen Sie die Datei manuell bearbeiten"
+  },
+  "_save_db_submit": {
+    "RU": "Сохранить",
+    "EN": "Save",
+    "UA": "Зберегти",
+    "DE": "Speichern"
+  },
+  "_skins_butt": {
+    "RU": "Скины",
+    "EN": "Skins",
+    "UA": "Скіни",
+    "DE": "Skins"
+  },
+  "_skins_butt_desc": {
+    "RU": "Выбор скинов на оружия",
+    "EN": "Weapon skins selection",
+    "UA": "Вибір скінів на зброю",
+    "DE": "Auswahl der Waffenskins"
+  },
+  "_agents_butt": {
+    "RU": "Агенты",
+    "EN": "Agents",
+    "UA": "Агенти",
+    "DE": "Agenten"
+  },
+  "_agents_butt_desc": {
+    "RU": "Выбор агента на персонажа",
+    "EN": "Agent selection for the character",
+    "UA": "Вибір агента для персонажа",
+    "DE": "Agentenauswahl für den Charakter"
+  },
+  "_monets_butt": {
+    "RU": "Монеты",
+    "EN": "Coins",
+    "UA": "Монети",
+    "DE": "Münzen"
+  },
+  "_monets_butt_desc": {
+    "RU": "Выбор монетки в табе",
+    "EN": "Coin selection in the tab",
+    "UA": "Вибір монетки в табі",
+    "DE": "Münzauswahl im Tab"
+  },
+  "_kit_butt": {
+    "RU": "Набор музыки",
+    "EN": "Music Kit",
+    "UA": "Набір музики",
+    "DE": "Musik-Kit"
+  },
+  "_kit_butt_desc": {
+    "RU": "Выбор музыки в конце раунда",
+    "EN": "Music selection at the end of the round",
+    "UA": "Вибір музики в кінці раунду",
+    "DE": "Musikauswahl am Ende der Runde"
+  },
+  "_adm_pan_butt": {
+    "RU": "Админ-панель",
+    "EN": "Admin Panel",
+    "UA": "Адмін-панель",
+    "DE": "Admin-Panel"
+  },
+  "_adm_pan_butt_desc": {
+    "RU": "Настройка модуля",
+    "EN": "Module configuration",
+    "UA": "Налаштування модуля",
+    "DE": "Modulkonfiguration"
+  },
+  "_selection_stand": {
+    "RU": "Удалить выбор",
+    "EN": "Delete Selection",
+    "UA": "Видалити вибір",
+    "DE": "Auswahl löschen"
+  },
+  "_stats_info": {
+    "RU": "Информация об использование плагина/модуля",
+    "EN": "Plugin/module usage information",
+    "UA": "Інформація про використання плагіна/модуля",
+    "DE": "Plugin/Modul Verwendungsinformation"
+  },
+  "_stats_reg_play": {
+    "RU": "Зарегистрированных игроков",
+    "EN": "Registered players",
+    "UA": "Зареєстрованих гравців",
+    "DE": "Registrierte Spieler"
+  },
+  "_stats_skins_add": {
+    "RU": "Установленных скинов",
+    "EN": "Installed skins",
+    "UA": "Встановлених скинів",
+    "DE": "Installierte Skins"
+  },
+  "_stats_item_add": {
+    "RU": "Установленных предметов",
+    "EN": "Installed items",
+    "UA": "Встановлених предметів",
+    "DE": "Installierte Gegenstände"
+  },
+  "_stats_add_serv": {
+    "RU": "Установленных серверов",
+    "EN": "Installed servers",
+    "UA": "Встановлених серверів",
+    "DE": "Installierte Server"
+  },
+  "_stats_c_a": {
+    "RU": "Управление кэшем",
+    "EN": "Cache management",
+    "UA": "Управління кешем",
+    "DE": "Cache-Verwaltung"
+  },
+  "_stats_up_c_all": {
+    "RU": "Здесь вы можете обновить любой кэш модуля",
+    "EN": "Here you can update any module cache",
+    "UA": "Тут ви можете оновити будь-який кеш модуля",
+    "DE": "Hier können Sie jeden Modul-Cache aktualisieren"
+  },
+  "_stats_skins_all": {
+    "RU": "Всего скинов",
+    "EN": "Total skins",
+    "UA": "Всього скинів",
+    "DE": "Gesamtanzahl der Skins"
+  },
+  "_stats_update": {
+    "RU": "Обновить",
+    "EN": "Update",
+    "UA": "Оновити",
+    "DE": "Aktualisieren"
+  },
+  "_stats_all_stick": {
+    "RU": "Всего стикеров",
+    "EN": "Total stickers",
+    "UA": "Всього стікерів",
+    "DE": "Gesamtanzahl der Sticker"
+  },
+  "_stats_all_keychain": {
+    "RU": "Всего брелков",
+    "EN": "Total keychains",
+    "UA": "Всього брелків",
+    "DE": "Gesamtanzahl der Insgesamt"
+  },
+  "_stats_all_ag": {
+    "RU": "Всего агентов",
+    "EN": "Total agents",
+    "UA": "Всього агентів",
+    "DE": "Gesamtanzahl der Agenten"
+  },
+  "_stats_all_coin": {
+    "RU": "Всего монет",
+    "EN": "Total coins",
+    "UA": "Всього монет",
+    "DE": "Gesamtanzahl der Münzen"
+  },
+  "_stats_settings_md": {
+    "RU": "Настройки модуля",
+    "EN": "Module settings",
+    "UA": "Налаштування модуля",
+    "DE": "Modul-Einstellungen"
+  },
+  "_stats_okpon": {
+    "RU": "Ну давайте уже настроим модуль...",
+    "EN": "Come on, let's configure the module...",
+    "UA": "Ну давайте вже налаштуємо модуль...",
+    "DE": "Los, lass uns das Modul konfigurieren..."
+  },
+  "_stats_tex_rab": {
+    "RU": "Включить технические работы модуля",
+    "EN": "Enable module maintenance mode",
+    "UA": "Увімкнути технічне обслуговування модуля",
+    "DE": "Modul-Wartungsmodus aktivieren"
+  },
+  "_stats_on": {
+    "RU": "Включить",
+    "EN": "Enable",
+    "UA": "Увімкнути",
+    "DE": "Aktivieren"
+  },
+  "_stats_off": {
+    "RU": "Выключить",
+    "EN": "Disable",
+    "UA": "Вимкнути",
+    "DE": "Deaktivieren"
+  },
+  "_stats_coosee": {
+    "RU": "Выбор типа модуля для работы",
+    "EN": "Choose module type for operation",
+    "UA": "Вибір типу модуля для роботи",
+    "DE": "Modultyp für den Betrieb auswählen"
+  },
+  "_stats_name_serv_pls": {
+    "RU": "Укажите название сервера",
+    "EN": "Specify the server name",
+    "UA": "Вкажіть назву сервера",
+    "DE": "Geben Sie den Servernamen an"
+  },
+  "_stats_name_serv": {
+    "RU": "Название сервера",
+    "EN": "Server name",
+    "UA": "Назва сервера",
+    "DE": "Servername"
+  },
+  "_stats_serv1": {
+    "RU": "Сервер №1",
+    "EN": "Server #1",
+    "UA": "Сервер №1",
+    "DE": "Server Nr. 1"
+  },
+  "_stats_ippls": {
+    "RU": "Укажите IP и порт для сервера",
+    "EN": "Specify IP and port for the server",
+    "UA": "Вкажіть IP та порт для сервера",
+    "DE": "Geben Sie die IP-Adresse und den Port für den Server an"
+  },
+  "_stats_format": {
+    "RU": "Формат:",
+    "EN": "Format:",
+    "UA": "Формат:",
+    "DE": "Format:"
+  },
+  "_stats_addserv": {
+    "RU": "Добавить сервер",
+    "EN": "Add server",
+    "UA": "Додати сервер",
+    "DE": "Server hinzufügen"
+  },
+  "_stats_mkit": {
+    "RU": "Всего наборов музыки",
+    "EN": "Total music kits",
+    "UA": "Всього наборів музики",
+    "DE": "Gesamtanzahl der Musik-Kits"
+  },
+  "_stats_save_settings": {
+    "RU": "Сохранить настройки",
+    "EN": "Save settings",
+    "UA": "Зберегти налаштування",
+    "DE": "Einstellungen speichern"
+  },
+  "_adm_table_no": {
+    "RU": "Администратор не настроил таблицы",
+    "EN": "Administrator has not configured tables",
+    "UA": "Адміністратор не налаштував таблиці",
+    "DE": "Administrator hat Tabellen nicht konfiguriert"
+  },
+  "_adm_no_serv": {
+    "RU": "Администратор не добавил сервера",
+    "EN": "Administrator has not added servers",
+    "UA": "Адміністратор не додав сервери",
+    "DE": "Administrator hat keine Server hinzugefügt"
+  },
+  "_serv_right": {
+    "RU": "Сначала выберите сервер справа",
+    "EN": "First, select a server on the right",
+    "UA": "Спочатку виберіть сервер праворуч",
+    "DE": "Wählen Sie zuerst einen Server auf der rechten Seite aus"
+  },
+  "_command_left": {
+    "RU": "Сначала выберите команду слева",
+    "EN": "First, select a command on the left",
+    "UA": "Спочатку виберіть команду ліворуч",
+    "DE": "Wählen Sie zuerst einen Befehl auf der linken Seite aus"
+  },
+  "_error3": {
+    "RU": "Произошла ошибка №3",
+    "EN": "Error #3 occurred",
+    "UA": "Сталася помилка №3",
+    "DE": "Fehler #3 ist aufgetreten"
+  },
+  "_error1": {
+    "RU": "Произошла ошибка №1",
+    "EN": "Error #1 occurred",
+    "UA": "Сталася помилка №1",
+    "DE": "Fehler #1 ist aufgetreten"
+  },
+  "_ag_change": {
+    "RU": "Вы изменили агента",
+    "EN": "You have changed the agent",
+    "UA": "Ви змінили агента",
+    "DE": "Sie haben den Agenten geändert"
+  },
+  "_ag_del": {
+    "RU": "Вы убрали агента",
+    "EN": "You have removed the agent",
+    "UA": "Ви видалили агента",
+    "DE": "Sie haben den Agenten entfernt"
+  },
+  "_sag_no": {
+    "RU": "У вас и так нет агентов",
+    "EN": "You already have no agents",
+    "UA": "У вас і так немає агентів",
+    "DE": "Sie haben bereits keine Agenten"
+  },
+  "_error2": {
+    "RU": "Произошла ошибка №2",
+    "EN": "Error #2 occurred",
+    "UA": "Сталася помилка №2",
+    "DE": "Fehler #2 ist aufgetreten"
+  },
+  "_yspex_ccc": {
+    "RU": "Вы успешно обновили кэш",
+    "EN": "You have successfully updated the cache",
+    "UA": "Ви успішно оновили кеш",
+    "DE": "Sie haben den Cache erfolgreich aktualisiert"
+  },
+  "_yspex_ccc_all": {
+    "RU": "Вы успешно обновили все кэши",
+    "EN": "You have successfully updated all caches",
+    "UA": "Ви успішно оновили всі кеші",
+    "DE": "Sie haben alle Caches erfolgreich aktualisiert"
+  },
+  "_coins_ch": {
+    "RU": "Вы изменили монету в табе",
+    "EN": "You changed the coin in the tab",
+    "UA": "Ви змінили монету в табі",
+    "DE": "Sie haben die Münze im Tab geändert"
+  },
+  "_coins_del": {
+    "RU": "Вы убрали монету из таба",
+    "EN": "You removed the coin from the tab",
+    "UA": "Ви видалили монету з табу",
+    "DE": "Sie haben die Münze aus dem Tab entfernt"
+  },
+  "_coins_del_all": {
+    "RU": "У вас и так нет монеты в табе",
+    "EN": "You don't have a coin in the tab anyway",
+    "UA": "У вас все одно немає монети в табі",
+    "DE": "Sie haben sowieso keine Münze im Tab"
+  },
+  "_mkit_ch": {
+    "RU": "Вы изменили музыкальный набор",
+    "EN": "You have changed the music kit",
+    "UA": "Ви змінили музичний набір",
+    "DE": "Sie haben das Musik-Kit geändert"
+  },
+  "_mkit_del": {
+    "RU": "Вы убрали музыкальный набор",
+    "EN": "You have removed the music kit",
+    "UA": "Ви видалили музичний набір",
+    "DE": "Sie haben das Musik-Kit entfernt"
+  },
+  "_mkit_del_all": {
+    "RU": "У вас и так нет музыкального набора",
+    "EN": "You already have no music kit",
+    "UA": "У вас і так немає музичного набору",
+    "DE": "Sie haben bereits kein Musik-Kit"
+  },
+  "_up_name": {
+    "RU": "Обновлено название сервера",
+    "EN": "Server name updated",
+    "UA": "Оновлено назву сервера",
+    "DE": "Servername aktualisiert"
+  },
+  "_add_new": {
+    "RU": "Добавлен новый сервер",
+    "EN": "New server added",
+    "UA": "Додано новий сервер",
+    "DE": "Neuer Server hinzugefügt"
+  },
+  "_save_md_set": {
+    "RU": "Настройки оружия сохранены",
+    "EN": "Weapon settings saved",
+    "UA": "Налаштування зброї збережено",
+    "DE": "Waffeneinstellungen gespeichert"
+  },
+  "_del_serv": {
+    "RU": "Удалили сервер:",
+    "EN": "Deleted server:",
+    "UA": "Видалили сервер:",
+    "DE": "Server gelöscht:"
+  },
+  "_no_serv": {
+    "RU": "Такого сервера не существует",
+    "EN": "This server does not exist",
+    "UA": "Такого сервера не існує",
+    "DE": "Dieser Server existiert nicht"
+  },
+  "_settings": {
+    "RU": "Настройки",
+    "EN": "Settings",
+    "UA": "Налаштування",
+    "DE": "Einstellungen"
+  },
+  "_search": {
+    "RU": "Поиск по названию",
+    "EN": "Search by name",
+    "UA": "Пошук за назвою",
+    "DE": "Suche nach Namen"
+  },
+  "_name": {
+    "RU": "Название",
+    "EN": "Name",
+    "UA": "Назва",
+    "DE": "Name"
+  },
+  "_pattern": {
+    "RU": "Паттерн",
+    "EN": "Pattern",
+    "UA": "Патерн",
+    "DE": "Muster"
+  },
+  "_nono": {
+    "RU": "Не найдены",
+    "EN": "Not found",
+    "UA": "Не знайдено",
+    "DE": "Nicht gefunden"
+  },
+  "_nonono": {
+    "RU": "Пытаетесь обмануть систему :(",
+    "EN": "Trying to cheat the system :(",
+    "UA": "Спроба обманути систему :(",
+    "DE": "Versuch, das System zu täuschen :("
+  },
+  "_skins_yoyo": {
+    "RU": "Поставили скин -",
+    "EN": "Skin set -",
+    "UA": "Встановлено скин -",
+    "DE": "Haut gesetzt -"
+  },
+  "_errorskins": {
+    "RU": "Произошла ошибка при изменение скина",
+    "EN": "Error occurred while changing skin",
+    "UA": "Сталася помилка при зміні скина",
+    "DE": "Fehler beim Ändern der Haut"
+  },
+  "_lolstok": {
+    "RU": "Установлен стандартный скин",
+    "EN": "Default skin set",
+    "UA": "Встановлено стандартний скин",
+    "DE": "Standardhaut festgelegt"
+  },
+  "_errorizmen": {
+    "RU": "Произошла ошибка при изменении",
+    "EN": "Error occurred while changing",
+    "UA": "Сталася помилка при зміні",
+    "DE": "Fehler beim Ändern"
+  },
+  "_knife_yoyo": {
+    "RU": "Установлен нож -",
+    "EN": "Knife set -",
+    "UA": "Встановлено ніж -",
+    "DE": "Messer gesetzt -"
+  },
+  "_gl_yoyo": {
+    "RU": "Установлены перчатки -",
+    "EN": "Gloves set -",
+    "UA": "Встановлено рукавички -",
+    "DE": "Handschuhe gesetzt -"
+  },
+  "_st_yoyo": {
+    "RU": "Установлен стикер -",
+    "EN": "Sticker set -",
+    "UA": "Встановлено стікер -",
+    "DE": "Aufkleber gesetzt -"
+  },
+  "_st_0": {
+    "RU": "StatTrak не может быть меньше 0",
+    "EN": "StatTrak cannot be less than 0",
+    "UA": "StatTrak не може бути менше 0",
+    "DE": "StatTrak kann nicht kleiner als 0 sein"
+  },
+  "_pt_0_999": {
+    "RU": "Паттерн только от 0 до 999",
+    "EN": "Pattern only from 0 to 999",
+    "UA": "Патерн тільки від 0 до 999",
+    "DE": "Muster nur von 0 bis 999"
+  },
+  "_fl_0_999": {
+    "RU": "Float только от 0 до 0.9999",
+    "EN": "Float only from 0 to 0.9999",
+    "UA": "Float тільки від 0 до 0.9999",
+    "DE": "Float nur von 0 bis 0.9999"
+  },
+  "_st_0_999999": {
+    "RU": "StatTrak только от 0 до 999999",
+    "EN": "StatTrak only from 0 to 999999",
+    "UA": "StatTrak тільки від 0 до 999999",
+    "DE": "StatTrak nur von 0 bis 999999"
+  },
+  "_name_0_20": {
+    "RU": "NameTag только от 0 до 20 символов",
+    "EN": "NameTag must be between 0 and 20 characters",
+    "UA": "NameTag повинен бути від 0 до 20 символів",
+    "DE": "NameTag muss zwischen 0 und 20 Zeichen lang sein"
+  },
+  "_adm_tyty": {
+    "RU": "Администратор не настроил модуль",
+    "EN": "Administrator has not configured the module",
+    "UA": "Адміністратор не налаштував модуль",
+    "DE": "Administrator hat das Modul nicht konfiguriert"
+  },
+  "_error": {
+    "RU": "Произошла ошибка...",
+    "EN": "An error occurred...",
+    "UA": "Сталася помилка...",
+    "DE": "Ein Fehler ist aufgetreten..."
+  },
+  "_stats_md": {
+    "RU": "Статистика модуля",
+    "EN": "Module statistics",
+    "UA": "Статистика модуля",
+    "DE": "Modulstatistiken"
+  },
+  "_selectel_skins": {
+    "RU": "Выбрать скины",
+    "EN": "Select skins",
+    "UA": "Вибрати скіни",
+    "DE": "Skins auswählen"
+  },
+  "_choose_weapon": {
+    "RU": "Установить",
+    "EN": "Install",
+    "UA": "Встановити",
+    "DE": "Installieren"
+  },
+  "_choose_default": {
+    "RU": "Установлен",
+    "EN": "Already chosen",
+    "UA": "Вже обрано",
+    "DE": "Bereits ausgewählt"
+  },
+  "_no_slot": {
+    "RU": "Выберите сначала слот для стикера",
+    "EN": "First, choose a slot for the sticker",
+    "UA": "Спочатку виберіть слот для стікера",
+    "DE": "Wählen Sie zuerst einen Slot für den Aufkleber"
+  },
+  "_buttons_module": {
+    "RU": "Показывать ли выбор сервера в начале",
+    "EN": "Show server selection at the beginning",
+    "UA": "Показати вибір сервера на початку",
+    "DE": "Serverauswahl am Anfang anzeigen"
+  },
+  "_buttons_module_1": {
+    "RU": "Показывать",
+    "EN": "Show",
+    "UA": "Показати",
+    "DE": "Anzeigen"
+  },
+  "_buttons_module_2": {
+    "RU": "Скрыть",
+    "EN": "Hide",
+    "UA": "Приховати",
+    "DE": "Ausblenden"
+  },
+  "_team_module": {
+    "RU": "Показывать ли все виды оружия для команды T/CT",
+    "EN": "Whether to show all weapons for T/CT team",
+    "UA": "Чи показувати всі види зброї для команди T/CT",
+    "DE": "Ob alle Waffen für das T/CT-Team angezeigt werden sollen"
+  },
+  "_team_module_1": {
+    "RU": "Показывать",
+    "EN": "Show",
+    "UA": "Показати",
+    "DE": "Anzeigen"
+  },
+  "_team_module_2": {
+    "RU": "Скрыть",
+    "EN": "Hide",
+    "UA": "Приховати",
+    "DE": "Ausblenden"
+  },
+  "_servers_modal_name": {
+    "RU": "Выберите сервер",
+    "EN": "Choose server",
+    "UA": "Виберіть сервер",
+    "DE": "Server auswählen"
+  },
+  "_servers_modal_info": {
+    "RU": "<a>Внимание!</a> После выбора, кнопки будут доступны справа от поиска",
+    "EN": "<a>Attention!</a> After selection, the buttons will be available to the right of the search",
+    "UA": "<a>Увага!</a> Після вибору кнопки будуть доступні справа від пошуку",
+    "DE": "<a>Achtung!</a> Nach der Auswahl sind die Schaltflächen rechts von der Suche verfügbar"
+  },
+  "_all_db_module": {
+    "RU": "Разделить сервера по базам данных",
+    "EN": "Split servers by databases",
+    "UA": "Розділити сервери за базами даних",
+    "DE": "Server nach Datenbanken aufteilen"
+  },
+  "_all_db_module_1": {
+    "RU": "Да (разделить бд)",
+    "EN": "Yes (split by database)",
+    "UA": "Так (розділити за базами даних)",
+    "DE": "Ja (nach Datenbank aufteilen)"
+  },
+  "_all_db_module_2": {
+    "RU": "Нет (по таблице)",
+    "EN": "No (by table)",
+    "UA": "Ні (за таблицею)",
+    "DE": "Nein (nach Tabelle)"
+  },
+  "_no_stickers_gg": {
+    "RU": "Нельзя поставить стикеры без скина",
+    "EN": "You cannot apply stickers without a skin",
+    "UA": "Неможливо поставити наліпки без скіна",
+    "DE": "Sie können keine Aufkleber ohne Skin anwenden"
+  },
+  "_no_keychain_gg": {
+    "RU": "Нельзя поставить брелки без скина",
+    "EN": "You cannot apply keychains without a skin",
+    "UA": "Не можна поставити брелоки без скіна",
+    "DE": "Ohne Skin kann man keinen Schlüsselanhänger anbringen"
+  },
+  "_login_steam": {
+    "RU": "Сначала войдите",
+    "EN": "First, log in",
+    "UA": "Спочатку увійдіть",
+    "DE": "Zuerst einloggen"
+  },
+  "_available_through": {
+    "RU": "Превышен лимит запросов, повторите через",
+    "EN": "Rate limit exceeded, try again in",
+    "UA": "Перевищено ліміт запитів, спробуйте ще раз через",
+    "DE": "Limit der Anfragen überschritten, versuchen Sie es erneut in"
+  },
+  "_seconds": {
+    "RU": "сек",
+    "EN": "sec",
+    "UA": "сек",
+    "DE": "Sek"
+  }
+}
